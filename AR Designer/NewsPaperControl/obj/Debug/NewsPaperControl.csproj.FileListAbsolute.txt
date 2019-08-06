@@ -1,0 +1,16 @@
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\bin\Debug\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\bin\Debug\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.NewsPaperControlBase.resources
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.NewsPaperControlBase.resources
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\bin\Debug\NewsPaperControl.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\bin\Debug\NewsPaperControl.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewsPaperControl\obj\Debug\NewsPaperControl.pdb

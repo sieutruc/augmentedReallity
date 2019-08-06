@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--  generator="FeedCreator 1.7.2" 
+  --> 
+<rss version="2.0">
+<paper>
+
+      <title>Thanh Nien</title>
+
+      <date>ddfsf-mm-yyyyewrewrew</date>
+
+      <numpages>2</numpages>
+
+      <pages>
+
+             <page>
+
+				   	<object>
+
+                         <type>SeqImages</type>
+
+                         <uri>/sdcard/Thanhnien/yte2.jpg</uri>
+						 
+						 <uri>/sdcard/Thanhnien/yte1.jpg</uri>
+						 
+						 <uri>/sdcard/Thanhnien/yte3.jpg</uri>
+
+                         <x>-95</x>
+
+                         <y>105</y>
+
+                         <width>190</width>
+
+                         <height>215</height>
+						 
+						 <marker>marker01</marker>
+
+                   </object>
+				   
+				   <object>
+
+                         <type>Audio</type>
+
+                         <uri>/sdcard/Thanhnien/bauvat.mp3</uri>
+
+                         <x>100</x>
+
+                         <y>150</y>
+
+                         <width>60</width>
+
+                         <height>60</height>
+						 
+						 <marker>marker01</marker>
+
+                   </object>
+
+             </page>
+
+            <page>
+			
+				<object>
+
+                         <type>MD2Model</type>
+
+                         <uri>/sdcard/Thanhnien/tris.md2</uri>
+						 
+						 <uri>/sdcard/Thanhnien/ai.png</uri>
+
+                         <x>-70</x>
+
+                         <y>0</y>
+
+                         <width>100</width>
+
+                         <height>100</height>
+						 
+						 <marker>marker20</marker>
+
+				</object>
+			
+			</page>
+
+      </pages>
+
+ </paper>
+
+</rss>

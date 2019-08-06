@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="marker00" size="218 56.151516"/>
+        <ImageTarget name="marker01" size="189.199265 211"/>
+        <ImageTarget name="marker190" size="277.007233 409"/>
+        <ImageTarget name="marker20" size="277.007233 409"/>
+    </Tracking>
+</QCARConfig>

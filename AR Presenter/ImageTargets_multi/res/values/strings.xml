@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageTargets</string>
+    <string name="app_description">QCAR ImageTargets Sample Application</string>
+	<string name="button_reset">Reset</string>
+	<string name="button_clear">Home</string>
+	<string name="button_end">End</string>
+	<string name="button_delete">Delete</string>
+</resources>

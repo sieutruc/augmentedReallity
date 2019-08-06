@@ -1,0 +1,12 @@
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\obj\Release\ResolveAssemblyReference.cache
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\bin\Release\NewsPaperAudio.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\bin\Release\NewsPaperAudio.pdb
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\bin\Release\NewsPaperControl.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\bin\Release\NewsPaperControl.pdb
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\obj\Release\NewsPaperAudio.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaperAudio\obj\Release\NewsPaperAudio.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperAudio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperAudio\obj\Release\NewsPaperAudio.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperAudio.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperAudio.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperAudio\obj\Release\NewsPaperAudio.dll

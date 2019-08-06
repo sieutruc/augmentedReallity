@@ -1,0 +1,5 @@
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperMarker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperMarker.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperMarker.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperMarker\obj\Release\NewsPaperMarker.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperMarker\obj\Release\NewsPaperMarker.pdb

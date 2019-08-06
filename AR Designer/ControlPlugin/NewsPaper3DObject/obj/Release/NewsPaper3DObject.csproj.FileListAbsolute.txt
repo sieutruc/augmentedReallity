@@ -1,0 +1,16 @@
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaper3DObject.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaper3DObject.pdb
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaperControl.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaperControl.pdb
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\obj\Release\ResolveAssemblyReference.cache
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\obj\Release\NewsPaper3DObject.dll
+D:\Subject\thesis\Truc_thesis\ControlPlugin\NewsPaper3DObject\obj\Release\NewsPaper3DObject.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\obj\Release\NewsPaper3DObject.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaper3DObject.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaper3DObject.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaperControl.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\bin\Release\NewsPaperControl.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaper3DObject\obj\Release\NewsPaper3DObject.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaper3DObject.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaper3DObject.pdb

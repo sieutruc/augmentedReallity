@@ -1,0 +1,5 @@
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\MyCollectionEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\MyCollectionEditor\bin\Debug\MyCollectionEditor.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\MyCollectionEditor\bin\Debug\MyCollectionEditor.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\MyCollectionEditor\obj\Debug\MyCollectionEditor.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\MyCollectionEditor\obj\Debug\MyCollectionEditor.pdb

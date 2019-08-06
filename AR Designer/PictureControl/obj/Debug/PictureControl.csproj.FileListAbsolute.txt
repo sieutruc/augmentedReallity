@@ -1,0 +1,36 @@
+C:\Users\PATL\Documents\Visual Studio 2008\Projects\NewspaperDesigner\PictureControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PATL\Documents\Visual Studio 2008\Projects\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.dll
+C:\Users\PATL\Documents\Visual Studio 2008\Projects\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.pdb
+C:\Users\PATL\Documents\Visual Studio 2008\Projects\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.dll
+C:\Users\PATL\Documents\Visual Studio 2008\Projects\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.pdb
+G:\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.dll
+G:\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.pdb
+G:\NewspaperDesigner\PictureControl\obj\Debug\ResolveAssemblyReference.cache
+G:\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.dll
+G:\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.pdb
+G:\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.MyPictureControl.resources
+G:\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Subject\thesis\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.dll
+D:\Subject\thesis\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.pdb
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.MyPictureControl.resources
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.csproj.GenerateResource.Cache
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.dll
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.dll
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.MyPictureControl.resources
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.dll
+G:\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\bin\Debug\PictureControl.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.MyPictureControl.resources
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\PictureControl\obj\Debug\PictureControl.pdb

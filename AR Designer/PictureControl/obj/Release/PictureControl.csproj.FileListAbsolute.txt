@@ -1,0 +1,7 @@
+D:\Subject\thesis\NewspaperDesigner\PictureControl\bin\Release\PictureControl.dll
+D:\Subject\thesis\NewspaperDesigner\PictureControl\bin\Release\PictureControl.pdb
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Release\ResolveAssemblyReference.cache
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Release\PictureControl.MyPictureControl.resources
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Release\PictureControl.csproj.GenerateResource.Cache
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Release\PictureControl.dll
+D:\Subject\thesis\NewspaperDesigner\PictureControl\obj\Release\PictureControl.pdb

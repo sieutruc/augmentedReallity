@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaperVideo", "NewsPaperVideo\NewsPaperVideo.csproj", "{8E0374F4-104A-405A-8ECA-68A18DDDD06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaperPictureCollection", "NewsPaperPictureCollection\NewsPaperPictureCollection.csproj", "{72C9A6CA-F0E5-4DD5-9D05-DC15112B632D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaperPicture", "NewsPaperPicture\NewsPaperPicture.csproj", "{B9FF211A-A1BA-4D21-BE5C-D0AB3731BAC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCollectionEditor", "..\MyCollectionEditor\MyCollectionEditor.csproj", "{E92E6AA2-62C0-49B3-B425-1AF96DB3824F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaper3DObject", "NewsPaper3DObject\NewsPaper3DObject.csproj", "{A350FA2C-C1EC-41DC-94D8-284DA8AA6CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaperAudio", "NewsPaperAudio\NewsPaperAudio.csproj", "{95231C31-CD5B-4A0B-8A91-726228D58F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPaperMarker", "NewsPaperMarker\NewsPaperMarker.csproj", "{4BB024AC-5F85-425D-9F15-C2A983D2314D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0374F4-104A-405A-8ECA-68A18DDDD06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0374F4-104A-405A-8ECA-68A18DDDD06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0374F4-104A-405A-8ECA-68A18DDDD06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0374F4-104A-405A-8ECA-68A18DDDD06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C9A6CA-F0E5-4DD5-9D05-DC15112B632D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C9A6CA-F0E5-4DD5-9D05-DC15112B632D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C9A6CA-F0E5-4DD5-9D05-DC15112B632D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C9A6CA-F0E5-4DD5-9D05-DC15112B632D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FF211A-A1BA-4D21-BE5C-D0AB3731BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FF211A-A1BA-4D21-BE5C-D0AB3731BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FF211A-A1BA-4D21-BE5C-D0AB3731BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FF211A-A1BA-4D21-BE5C-D0AB3731BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92E6AA2-62C0-49B3-B425-1AF96DB3824F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92E6AA2-62C0-49B3-B425-1AF96DB3824F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92E6AA2-62C0-49B3-B425-1AF96DB3824F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92E6AA2-62C0-49B3-B425-1AF96DB3824F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A350FA2C-C1EC-41DC-94D8-284DA8AA6CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A350FA2C-C1EC-41DC-94D8-284DA8AA6CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A350FA2C-C1EC-41DC-94D8-284DA8AA6CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A350FA2C-C1EC-41DC-94D8-284DA8AA6CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95231C31-CD5B-4A0B-8A91-726228D58F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95231C31-CD5B-4A0B-8A91-726228D58F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95231C31-CD5B-4A0B-8A91-726228D58F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95231C31-CD5B-4A0B-8A91-726228D58F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB024AC-5F85-425D-9F15-C2A983D2314D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB024AC-5F85-425D-9F15-C2A983D2314D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB024AC-5F85-425D-9F15-C2A983D2314D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB024AC-5F85-425D-9F15-C2A983D2314D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\bin\Release\NewsPaperPictureCollection.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\bin\Release\NewsPaperPictureCollection.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\bin\Release\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\bin\Release\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperPictureCollection.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperPictureCollection.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperPictureCollection.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperPictureCollection.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\NewsPaperPictureCollection.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\NewsPaperPictureCollection.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperPictureCollection.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperPictureCollection.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\NewsPaperPictureCollection.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPictureCollection\obj\Release\NewsPaperPictureCollection.pdb

@@ -1,0 +1,52 @@
+<newspaper>
+  <title>Thanh niên</title>
+  <date>31/5/2011</date>
+  <numpages>1</numpages>
+  <number>0</number>
+  <pages>
+    <page width="276" height="479" backgroundURL="wpid-1288651185_finance-6.jpg">
+      <object>
+        <type>NewsPaper3DObject</type>
+        <uri>(none)</uri>
+        <uri>(none)</uri>
+        <x>81</x>
+        <y>142</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj4</marker>
+      </object>
+      <object>
+        <type>NewsPaperAudio</type>
+        <uri>(none)</uri>
+        <x>116</x>
+        <y>244</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj5</marker>
+      </object>
+      <marker>
+        <name>Obj4</name>
+        <x>79</x>
+        <y>105</y>
+        <width>30</width>
+        <height>30</height>
+      </marker>
+      <marker>
+        <name>Obj5</name>
+        <x>189</x>
+        <y>204</y>
+        <width>30</width>
+        <height>30</height>
+      </marker>
+      <object>
+        <type>NewsPaperPicture</type>
+        <uri>FinanceGraphic.jpg</uri>
+        <x>156</x>
+        <y>15</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj5</marker>
+      </object>
+    </page>
+  </pages>
+</newspaper>

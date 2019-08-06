@@ -1,0 +1,16 @@
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Release\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Release\NewsPaperVideo.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Release\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Release\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperVideo.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperVideo.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\NewsPaperVideo.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperVideo.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugins\NewsPaperVideo.pdb
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\NewsPaperVideo.dll
+C:\Users\AlainXuanNguyen\Documents\My Dropbox\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Release\NewsPaperVideo.pdb

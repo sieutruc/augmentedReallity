@@ -1,0 +1,9 @@
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Debug\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Debug\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Debug\NewsPaperVideo.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Debug\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\bin\Debug\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Debug\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperVideo\obj\Debug\NewsPaperVideo.pdb
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperVideo.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperVideo.pdb

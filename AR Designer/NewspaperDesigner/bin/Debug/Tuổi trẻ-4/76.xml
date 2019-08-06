@@ -1,0 +1,36 @@
+<newspaper>
+  <title>Tuổi trẻ</title>
+  <date>2/6/2011</date>
+  <numpages>1</numpages>
+  <number>4</number>
+  <pages>
+    <page width="276" height="479" backgroundURL="">
+      <object>
+        <type>NewsPaper3DObject</type>
+        <uri>(none)</uri>
+        <uri>(none)</uri>
+        <x>69</x>
+        <y>179</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj3</marker>
+      </object>
+      <marker>
+        <name>Obj3</name>
+        <x>0</x>
+        <y>0</y>
+        <width>30</width>
+        <height>30</height>
+      </marker>
+      <object>
+        <type>NewsPaperAudio</type>
+        <uri>(none)</uri>
+        <x>84</x>
+        <y>-21</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj3</marker>
+      </object>
+    </page>
+  </pages>
+</newspaper>

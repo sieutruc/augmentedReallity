@@ -1,0 +1,37 @@
+<newspaper>
+  <title>tuoitre3</title>
+  <date>2/6/2011</date>
+  <numpages>2</numpages>
+  <number>2</number>
+  <pages>
+    <page width="276" height="479" backgroundURL="tuoitre00.jpg">
+      <object>
+        <type>NewsPaperPictureCollection</type>
+        <uri>01_image1.jpg</uri>
+        <uri>01_image2.jpg</uri>
+        <x>-99</x>
+        <y>54</y>
+        <width>161</width>
+        <height>186</height>
+        <marker>tuoitre00</marker>
+      </object>
+      <marker>
+        <name>tuoitre00</name>
+        <x>67</x>
+        <y>91</y>
+        <width>197</width>
+        <height>281</height>
+      </marker>
+      <object>
+        <type>NewsPaperAudio</type>
+        <uri>01_3trieungheo.mp3</uri>
+        <x>-160</x>
+        <y>60</y>
+        <width>40</width>
+        <height>48</height>
+        <marker>tuoitre00</marker>
+      </object>
+    </page>
+    <page width="276" height="479" backgroundURL="" />
+  </pages>
+</newspaper>

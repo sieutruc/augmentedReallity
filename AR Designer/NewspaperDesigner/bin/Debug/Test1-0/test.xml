@@ -1,0 +1,26 @@
+<newspaper>
+  <title>Test1</title>
+  <date>1/6/2011</date>
+  <numpages>1</numpages>
+  <number>0</number>
+  <pages>
+    <page width="276" height="479" backgroundURL="">
+      <marker>
+        <name>Obj1</name>
+        <x>50</x>
+        <y>50</y>
+        <width>30</width>
+        <height>30</height>
+      </marker>
+      <object>
+        <type>NewsPaperPicture</type>
+        <uri>(none)</uri>
+        <x>-65</x>
+        <y>-65</y>
+        <width>100</width>
+        <height>100</height>
+        <marker>Obj1</marker>
+      </object>
+    </page>
+  </pages>
+</newspaper>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NewspaperDesigner.CBackgroundAtt" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACAACAAAAAAAAABAAAAAAAAAAAAAIAAIAAAAA=</HashCode>
+      <FileName>CBackgroundAtt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.CNewspaper">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEgAQBAAAAAQQAABAEAACAICAAgAAABAAAAAQABIAAE=</HashCode>
+      <FileName>CNewspaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.CPage">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAAAAAAQAQAAAAEAAAAAAAAAABAAAQAAAAAA=</HashCode>
+      <FileName>CNewspaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.CControl" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAEAABACAAAQAwAAAAEAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CNewspaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.frmFileName" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAABAAAACAAAACAAAIAAAAAEAAAAAgAAA=</HashCode>
+      <FileName>frmFileName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.frmNewNewspaper" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgAAAAACAgAhABAAaQAAAiAAAACAAAAIAAAAAhAQA=</HashCode>
+      <FileName>frmNewNewspaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.MainProgram" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>2IpRjAxfQDIAAgeQEkTAANKCKgKMABhYhBABwkOT0CM=</HashCode>
+      <FileName>MainProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.NewsPaperControlManager" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>NewsPaperControlManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAABAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewspaperDesigner.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsPaperControl.CAttBase" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NewsPaperControl.NewsPaperControlBase" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="4" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="NewsPaperControl.NewsPaperControlBase.ePosition" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="NewsPaperControl.IAtt">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="NewsPaperControl.INewsPaperControl">
+    <Position X="8.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

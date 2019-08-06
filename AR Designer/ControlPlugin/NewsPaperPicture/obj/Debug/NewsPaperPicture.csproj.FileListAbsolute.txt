@@ -1,0 +1,12 @@
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\obj\Debug\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\bin\Debug\ControlPlugin.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\bin\Debug\ControlPlugin.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\bin\Debug\NewsPaperControl.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\bin\Debug\NewsPaperControl.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\obj\Debug\ControlPlugin.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\ControlPlugin\obj\Debug\ControlPlugin.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPicture\obj\Debug\ResolveAssemblyReference.cache
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperPicture.dll
+G:\Thesis - Truc\NewspaperDesigner\NewspaperDesigner\bin\Debug\Plugin\NewsPaperPicture.pdb
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPicture\obj\Debug\NewsPaperPicture.dll
+G:\Thesis - Truc\NewspaperDesigner\ControlPlugin\NewsPaperPicture\obj\Debug\NewsPaperPicture.pdb
